@@ -1,0 +1,11 @@
+.container-history{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+.title{
+    font-size: 2rem;
+    margin-top: 50px;
+}
